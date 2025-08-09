@@ -22,7 +22,7 @@ function agregarAmigo() {
         return false ;
     }
     
-    if(amigosIngresados.length > 1) { 
+    if(amigosIngresados.length >= 1) { 
         const existeNombre = amigosIngresados.includes(amigoEntrada);
         if(existeNombre == true) {
             configuraciones(`<b style="color: red;">¡Cuidado!</b> El nombre <b>${amigoEntrada}</b> de tu amigo ya ha sido ingresado.`);
