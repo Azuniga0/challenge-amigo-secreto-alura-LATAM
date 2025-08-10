@@ -50,5 +50,6 @@ Dentro de las funciones se encuentran
 
 
   ## Ejemplo
-  A continuación habrá un pequeño video de muestra sobre un posible ejemplo para jugar.
-  
+  A continuación habrá un pequeño video de muestra sobre un posible ejemplo para jugar. 
+  ![Ejemplo de uso](https://github.com/user-attachments/assets/8a808326-4f59-48f2-aadd-a9f2a59c4a44)
+
